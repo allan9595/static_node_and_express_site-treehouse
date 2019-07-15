@@ -1,0 +1,49 @@
+{
+    "projects": [
+        {
+            "id": "0",
+            "project_name":"Random_quote_generator",
+            "description":"A site generating quote on screen automatically",
+            "technologies": "HTML, CSS, Pure Javascript",
+            "live_link": "https://allan9595.github.io/Techdegree-Project1/",
+            "github_link": "https://github.com/allan9595/Techdegree-Project1",
+            "images": ""
+        }, 
+        {
+            "id": "0",
+            "project_name":"Random_quote_generator",
+            "description":"A site generating quote on screen automatically",
+            "technologies": "HTML, CSS, Pure Javascript",
+            "live_link": "https://allan9595.github.io/Techdegree-Project1/",
+            "github_link": "https://github.com/allan9595/Techdegree-Project1",
+            "images": ""
+        },
+        {
+            "id": "0",
+            "project_name":"Random_quote_generator",
+            "description":"A site generating quote on screen automatically",
+            "technologies": "HTML, CSS, Pure Javascript",
+            "live_link": "https://allan9595.github.io/Techdegree-Project1/",
+            "github_link": "https://github.com/allan9595/Techdegree-Project1",
+            "images": ""
+        },
+        {
+            "id": "0",
+            "project_name":"Random_quote_generator",
+            "description":"A site generating quote on screen automatically",
+            "technologies": "HTML, CSS, Pure Javascript",
+            "live_link": "https://allan9595.github.io/Techdegree-Project1/",
+            "github_link": "https://github.com/allan9595/Techdegree-Project1",
+            "images": ""
+        }, 
+        {
+            "id": "0",
+            "project_name":"Random_quote_generator",
+            "description":"A site generating quote on screen automatically",
+            "technologies": "HTML, CSS, Pure Javascript",
+            "live_link": "https://allan9595.github.io/Techdegree-Project1/",
+            "github_link": "https://github.com/allan9595/Techdegree-Project1",
+            "images": ""
+        }
+    ]
+}
