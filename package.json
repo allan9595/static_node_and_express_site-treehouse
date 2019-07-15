@@ -1,0 +1,23 @@
+{
+  "name": "static_node_and_express_site-treehouse",
+  "version": "1.0.0",
+  "description": "A static site shows projects I have been working on",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allan9595/static_node_and_express_site-treehouse.git"
+  },
+  "author": "bohan zhang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/allan9595/static_node_and_express_site-treehouse/issues"
+  },
+  "homepage": "https://github.com/allan9595/static_node_and_express_site-treehouse#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pug": "^2.0.4"
+  }
+}
