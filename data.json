@@ -2,48 +2,48 @@
     "projects": [
         {
             "id": "0",
-            "project_name":"Random_quote_generator",
-            "description":"A site generating quote on screen automatically",
-            "technologies": "HTML, CSS, Pure Javascript",
+            "project_name":"Random quote generator",
+            "description":"A site generating quotes on screen automatically",
+            "technologies": ["HTML", "CSS", "Javascript"],
             "live_link": "https://allan9595.github.io/Techdegree-Project1/",
             "github_link": "https://github.com/allan9595/Techdegree-Project1",
-            "images": ""
+            "images": ["/images/randomGenLanding.png", "/images/randomDemo.png"]
         }, 
         {
-            "id": "0",
-            "project_name":"Random_quote_generator",
-            "description":"A site generating quote on screen automatically",
-            "technologies": "HTML, CSS, Pure Javascript",
-            "live_link": "https://allan9595.github.io/Techdegree-Project1/",
-            "github_link": "https://github.com/allan9595/Techdegree-Project1",
-            "images": ""
+            "id": "1",
+            "project_name":"Link and pagination on students ",
+            "description":"A site used pagination divied students into each page",
+            "technologies": ["HTML", "CSS", "Javascript"],
+            "live_link": "https://allan9595.github.io/Techdegree-Project2/",
+            "github_link": "https://github.com/allan9595/Techdegree-Project2",
+            "images": ["/images/studentsLanding.png", "/images/studentDemo.png"]
         },
         {
-            "id": "0",
-            "project_name":"Random_quote_generator",
-            "description":"A site generating quote on screen automatically",
-            "technologies": "HTML, CSS, Pure Javascript",
-            "live_link": "https://allan9595.github.io/Techdegree-Project1/",
-            "github_link": "https://github.com/allan9595/Techdegree-Project1",
-            "images": ""
+            "id": "2",
+            "project_name":"Form validation",
+            "description":"Validating a form on client side with Jquery",
+            "technologies": ["HTML", "CSS", "Javascript", "Jquery"],
+            "live_link": "https://allan9595.github.io/interactive-form-v1-treehouseTech/",
+            "github_link": "https://github.com/allan9595/interactive-form-v1-treehouseTech",
+            "images": ["/images/formLanding.png","/images/formDemo.png"]
         },
         {
-            "id": "0",
-            "project_name":"Random_quote_generator",
-            "description":"A site generating quote on screen automatically",
-            "technologies": "HTML, CSS, Pure Javascript",
-            "live_link": "https://allan9595.github.io/Techdegree-Project1/",
-            "github_link": "https://github.com/allan9595/Techdegree-Project1",
-            "images": ""
+            "id": "3",
+            "project_name":"Phrase hunter",
+            "description":"A phrase guessing games",
+            "technologies": ["HTML", "CSS", "Javascript, Jquery"],
+            "live_link": "https://allan9595.github.io/oop_game-v2-treehouseTech/",
+            "github_link": "https://github.com/allan9595/oop_game-v2-treehouseTech",
+            "images": ["/images/gameLanding.png","/images/gameDemo.png"]
         }, 
         {
-            "id": "0",
-            "project_name":"Random_quote_generator",
-            "description":"A site generating quote on screen automatically",
-            "technologies": "HTML, CSS, Pure Javascript",
-            "live_link": "https://allan9595.github.io/Techdegree-Project1/",
-            "github_link": "https://github.com/allan9595/Techdegree-Project1",
-            "images": ""
+            "id": "4",
+            "project_name":"Pubilc Api Request",
+            "description":"An employee directory generated from a public API",
+            "technologies": ["HTML", "CSS", "Javascript", "Jquery"],
+            "live_link": "https://allan9595.github.io/public_api_request-v1-treehouse/",
+            "github_link": "https://github.com/allan9595/public_api_request-v1-treehouse",
+            "images": ["/images/employeeLanding.png","/images/employeeDemo.png"]
         }
     ]
 }
