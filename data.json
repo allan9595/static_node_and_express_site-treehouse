@@ -7,7 +7,7 @@
             "technologies": ["HTML", "CSS", "Javascript"],
             "live_link": "https://allan9595.github.io/Techdegree-Project1/",
             "github_link": "https://github.com/allan9595/Techdegree-Project1",
-            "images": ["/images/randomGenLanding.png", "/images/randomDemo.png"]
+            "images": ["/images/randomGenLanding.png", "/images/randomDemo.png", "/images/randomGenLanding1.png", "/images/randomGenLanding2.png"]
         }, 
         {
             "id": "1",
@@ -16,7 +16,7 @@
             "technologies": ["HTML", "CSS", "Javascript"],
             "live_link": "https://allan9595.github.io/Techdegree-Project2/",
             "github_link": "https://github.com/allan9595/Techdegree-Project2",
-            "images": ["/images/studentsLanding.png", "/images/studentDemo.png"]
+            "images": ["/images/studentsLanding.png", "/images/studentDemo.png","/images/studentDemo1.png", "/images/studentDemo2.png"]
         },
         {
             "id": "2",
@@ -24,8 +24,8 @@
             "description":"Validating a form on client side with Jquery",
             "technologies": ["HTML", "CSS", "Javascript", "Jquery"],
             "live_link": "https://allan9595.github.io/interactive-form-v1-treehouseTech/",
-            "github_link": "https://github.com/allan9595/interactive-form-v1-treehouseTech",
-            "images": ["/images/formLanding.png","/images/formDemo.png"]
+            "github_link": "https://github.com/allan9595/interactive-form-v1-treehouseTech/",
+            "images": ["/images/formLanding.png","/images/formDemo.png","/images/formDemo1.png","/images/formDemo2.png"]
         },
         {
             "id": "3",
@@ -34,7 +34,7 @@
             "technologies": ["HTML", "CSS", "Javascript, Jquery"],
             "live_link": "https://allan9595.github.io/oop_game-v2-treehouseTech/",
             "github_link": "https://github.com/allan9595/oop_game-v2-treehouseTech",
-            "images": ["/images/gameLanding.png","/images/gameDemo.png"]
+            "images": ["/images/gameLanding.png","/images/gameDemo.png","/images/gameDemo1.png","/images/gameDemo2.png"]
         }, 
         {
             "id": "4",
@@ -43,7 +43,7 @@
             "technologies": ["HTML", "CSS", "Javascript", "Jquery"],
             "live_link": "https://allan9595.github.io/public_api_request-v1-treehouse/",
             "github_link": "https://github.com/allan9595/public_api_request-v1-treehouse",
-            "images": ["/images/employeeLanding.png","/images/employeeDemo.png"]
+            "images": ["/images/employeeLanding.png","/images/employeeDemo.png","/images/employeeDemo1.png","/images/employeeDemo2.png"]
         }
     ]
 }
