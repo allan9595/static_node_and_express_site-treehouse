@@ -20,7 +20,7 @@ app.get("/about", (req, res) => {
     res.render("about") //render about page with pug
 })
 
-app.get("/project/:id", (req, res) => {
+app.get("/project/:id", (req, res, next) => {
     //render project page with pug and use dynamic query id
     res.render('project', {
         data,
@@ -28,14 +28,16 @@ app.get("/project/:id", (req, res) => {
     })
 })
 
+
 app.use((req, res, next) => {
     const err = new Error('Not found');
-    err.status = 404; //handle 404 
+    err.status = 404 ; //handle 404 
     next(err);
 })
 
 app.use((err, req, res, next) => {
-    res.status(err.status);
+    const status = err.status || 500; //the default error handler when 404 no presented
+    res.status(status); 
     res.render('error', {error: err}); //render error in error template
 })
 
