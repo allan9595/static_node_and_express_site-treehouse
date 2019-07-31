@@ -2,7 +2,7 @@ const express = require("express");
 const data = require("./data.json").projects;
 const path = require("path");
 const app = express();
-const port = 3000 || process.env.PORT; 
+const port = process.env.PORT || 5000; 
 
 app.set("view engine", "pug"); //use pug
 app.set("views", path.join(__dirname, "views")); //hook the pug up with express
