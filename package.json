@@ -18,10 +18,9 @@
   "homepage": "https://github.com/allan9595/static_node_and_express_site-treehouse#readme",
   "dependencies": {
     "express": "^4.17.1",
+    "nodemon": "^1.19.1",
     "path": "^0.12.7",
     "pug": "^2.0.4"
   },
-  "devDependencies": {
-    "nodemon": "^1.19.1"
-  }
+  "devDependencies": {}
 }
