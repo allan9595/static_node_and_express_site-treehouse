@@ -4,6 +4,8 @@ This portfolio build with pug, node and express. It includes my projects build f
 
 See the live version at [https://bohan-portfolio.herokuapp.com/](https://bohan-portfolio.herokuapp.com/)
 
+note: The live version might take few seconds to load since it is on heroku free dyno.
+
 ## Exceeding style changes
 Changed background color, font color, font type, and a favicon logo.
 
