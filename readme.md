@@ -2,6 +2,8 @@
 **Static Node.js and Express Site** 
 This portfolio build with pug, node and express. It includes my projects build from teamtreehouse.com tech degree. To run it, simply download it and run npm run start. 
 
+See the live version at [https://bohan-portfolio.herokuapp.com/](https://bohan-portfolio.herokuapp.com/)
+
 ## Exceeding style changes
 Changed background color, font color, font type, and a favicon logo.
 
